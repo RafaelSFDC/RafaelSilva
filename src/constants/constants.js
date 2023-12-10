@@ -40,7 +40,7 @@ export const projectsData = [
         description:
             "Uma plataforma para exibir projeto de programadores. Utilizando Back-End para armazenar os dados. Processo de CRUD completo.",
         image: "images/4.png",
-        tags: [SiVite, SiTailwindcss, SiTypescript, SiAppwrite],
+        tags: [SiVite, SiTailwindcss, SiTypescript, SiAppwrite, TbBrandFramerMotion],
         source: "https://travelapp-5kb2.onrender.com/",
         visit: "https://github.com/RafaelSFDC/travel_app",
         id: 3,
