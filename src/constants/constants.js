@@ -15,16 +15,16 @@ export const projectsData = [
         visit: "https://github.com/RafaelSFDC/BankWebsite",
         id: 0,
     },
-    {
-        title: "OpenAI",
-        description:
-            "Projeto que utiliza de uma inteligencia artificial para gerar imagens. Utilizando Back-End para armazenar os dados.",
-        image: "images/2.png",
-        tags: [SiMongodb, FaReact, SiOpenai, SiExpress],
-        source: "https://openai-front-end.onrender.com",
-        visit: "https://github.com/RafaelSFDC/OpenAI",
-        id: 1,
-    },
+    // {
+    //     title: "OpenAI",
+    //     description:
+    //         "Projeto que utiliza de uma inteligencia artificial para gerar imagens. Utilizando Back-End para armazenar os dados.",
+    //     image: "images/2.png",
+    //     tags: [SiMongodb, FaReact, SiOpenai, SiExpress],
+    //     source: "https://openai-front-end.onrender.com",
+    //     visit: "https://github.com/RafaelSFDC/OpenAI",
+    //     id: 1,
+    // },
     {
         title: "Hilink",
         description:
