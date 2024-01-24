@@ -326,7 +326,7 @@ header ul li>*:hover {
 }
 
 .about img {
-  max-height: 260px;
+  max-height: 100%;
   max-width: 100%;
 }
 
