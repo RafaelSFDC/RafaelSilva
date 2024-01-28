@@ -9,7 +9,7 @@ const Hero = () => {
                 <motion.div className="content">
                     <span>Bem vindo ao meu Portifólio</span>
                     <h1>Me chamo Rafael</h1>
-                    <p>Sou Desenvolvedor Web</p>
+                    <p>Sou Desenvolvedor Full-Stack </p>
                 </motion.div>
                 <HeroAnimation />
             </div>
