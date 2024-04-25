@@ -1,4 +1,4 @@
-import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiRedux, SiTailwindcss, SiSass, SiHtml5, SiCss3 } from "react-icons/si";
+import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiRedux, SiTailwindcss, SiSass, SiHtml5, SiCss3, SiPhp, SiLaravel } from "react-icons/si";
 import { FaReact, FaNode } from "react-icons/fa";
 import { TbBrandNextjs, TbBrandFramerMotion } from "react-icons/tb";
 
@@ -63,6 +63,14 @@ export const data = {
         {
             icon: SiAppwrite,
             text: "AppWrite"
+        },
+        {
+            icon: SiPhp,
+            text: "PHP"
+        },
+        {
+            icon: SiLaravel,
+            text: "Laravel"
         },
     ],
     Bibliotecas: [
